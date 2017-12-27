@@ -77,8 +77,7 @@ var opts = {
 	      }
 	    break;
 	  }
-	},
-	customCSS: "#bread-button { color: red }"
+	}
 };
 bread.checkout(opts);
 
